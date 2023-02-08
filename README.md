@@ -1,2 +1,2 @@
 # CTLBB
-Modelling toxicity thresholds to derive CTLBBs for Acropora millepora 
+Modelling toxicity thresholds of aromatic hydrocarbons to derive Acropora millepora CTLBBs
