@@ -1,4 +1,4 @@
-# CTLBB
+
 Derivation of CTLBB values for adult Acropora millepora exposed to aromatic hydrocarbons
 
 Source files used in these scripts can be found at:
